@@ -16,5 +16,5 @@ gradle clean build
 <li>빌드된 JAR 파일을 실행합니다.</li>
 
 ```
-java -jar log-compressor-0.0.1-SNAPSHOT.jar /Users/dhk/Desktop/spring/log-compressor/build/libs/
+java -jar log-compressor-0.0.1-SNAPSHOT.jar
 ```
